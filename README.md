@@ -1,2 +1,2 @@
 # array_assigment
-This is an Function, Loop and Array using assigment . 
+This assignment includes programs consisting of Arrays, functions and loop. 
